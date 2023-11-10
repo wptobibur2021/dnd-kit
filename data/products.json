@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "src": "/img/products/product-1.jpg",
+    "check": false
+  },
+
+  {
+    "id": 2,
+    "src": "/img/products/product-12.jpg",
+    "check": false
+  },
+  {
+    "id": 3,
+    "src": "/img/products/product-10.jpg",
+    "check": false
+  },
+  {
+    "id": 4,
+    "src": "/img/products/product-2.jpg",
+    "check": false
+  },
+  {
+    "id": 5,
+    "src": "/img/products/product-3.jpg",
+    "check": false
+  },
+  {
+    "id": 6,
+    "src": "/img/products/product-4.jpg",
+    "check": false
+  },
+  {
+    "id": 7,
+    "src": "/img/products/product-5.jpg",
+    "check": false
+  },
+  {
+    "id": 8,
+    "src": "/img/products/product-9.jpg",
+    "check": false
+  },
+  {
+    "id": 9,
+    "src": "/img/products/product-6.jpg",
+    "check": false
+  },
+  {
+    "id": 10,
+    "src": "/img/products/product-2.jpg",
+    "check": false
+  },
+  {
+    "id": 11,
+    "src": "/img/products/product-8.jpg",
+    "check": false
+  },
+  {
+    "id": 12,
+    "src": "/img/products/product-9.jpg",
+    "check": false
+  },
+  {
+    "id": 13,
+    "src": "/img/products/product-11.jpg",
+    "check": false
+  },
+  {
+    "id": 14,
+    "src": "/img/products/product-10.jpg",
+    "check": false
+  },
+  {
+    "id": 15,
+    "src": "/img/products/product-12.jpg",
+    "check": false
+  }
+]
